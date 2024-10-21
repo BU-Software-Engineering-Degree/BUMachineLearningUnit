@@ -8,5 +8,3 @@ We just github class room so the following is is the README's from each repo:
 - [Lab03](https://github.com/bu-ml-labs/ml-lab-03-LithiumDrache/blob/main/README.md)
 - 
 
-
-[Show to people](link)
